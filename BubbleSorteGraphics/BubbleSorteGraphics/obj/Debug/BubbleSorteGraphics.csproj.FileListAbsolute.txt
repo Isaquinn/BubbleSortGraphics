@@ -1,0 +1,9 @@
+c:\users\isaque\documents\visual studio 2015\Projects\BubbleSorteGraphics\BubbleSorteGraphics\bin\Debug\BubbleSorteGraphics.exe.config
+c:\users\isaque\documents\visual studio 2015\Projects\BubbleSorteGraphics\BubbleSorteGraphics\bin\Debug\BubbleSorteGraphics.exe
+c:\users\isaque\documents\visual studio 2015\Projects\BubbleSorteGraphics\BubbleSorteGraphics\bin\Debug\BubbleSorteGraphics.pdb
+c:\users\isaque\documents\visual studio 2015\Projects\BubbleSorteGraphics\BubbleSorteGraphics\obj\Debug\BubbleSorteGraphics.csprojResolveAssemblyReference.cache
+c:\users\isaque\documents\visual studio 2015\Projects\BubbleSorteGraphics\BubbleSorteGraphics\obj\Debug\BubbleSorteGraphics.Form1.resources
+c:\users\isaque\documents\visual studio 2015\Projects\BubbleSorteGraphics\BubbleSorteGraphics\obj\Debug\BubbleSorteGraphics.Properties.Resources.resources
+c:\users\isaque\documents\visual studio 2015\Projects\BubbleSorteGraphics\BubbleSorteGraphics\obj\Debug\BubbleSorteGraphics.csproj.GenerateResource.Cache
+c:\users\isaque\documents\visual studio 2015\Projects\BubbleSorteGraphics\BubbleSorteGraphics\obj\Debug\BubbleSorteGraphics.exe
+c:\users\isaque\documents\visual studio 2015\Projects\BubbleSorteGraphics\BubbleSorteGraphics\obj\Debug\BubbleSorteGraphics.pdb
